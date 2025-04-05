@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pedrords3/portfolio.git",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "vite": "^4.0.0"
+  }
+}
