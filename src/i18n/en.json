@@ -1,0 +1,21 @@
+{
+    "portfolio_title": "My Portfolio",
+    "portfolio_subtitle": "Developed using React and Tailwind CSS framework",
+    "portfolio_languages": "Languages: JS, JSX(JavaScript + XML), CSS.",
+    "portfolio_tools": "Build tool: Vite, Node.js",
+    "portfolio_projects": "Professional and personal projects",
+    "technologies": "Technologies",
+    "view": "View project",
+    "hextech_desc": "Corporate website for my own company, focused on services and contact.",
+    "tecgebras_title": "Tecgebras Generator Group",
+    "tecgebras_desc": "Modern corporate website focused on presenting the company's services and contact info.",
+    "cards_title": "Online Card Game (Patuscada-style +18)",
+    "cards_desc": "Multiplayer online game with a customizable rules system. Requires 3+ players (invite friends). Single server (Beta)",
+    "karaoke_title": "Dynamic Karaoke",
+    "karaoke_desc": "Karaoke project with synchronized lyrics and audio (Open source).",
+    "unimed_title": "Internal Automation System – Unimed Os Bandeirantes Tech Health",
+    "unimed_desc": "Internal system for automating administrative processes, including value updates, report generation and data control.",
+    "about_title": "About me",
+    "about_text": "My name is Pedro Rodrigues. I'm a web developer with over 5 years of experience. I specialize in front-end development but also work on the back-end. Currently, I'm focusing on learning more about React and Node.js, and I'm looking for opportunities to work with international companies."
+  }
+  

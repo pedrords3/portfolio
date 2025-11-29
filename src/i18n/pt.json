@@ -1,0 +1,22 @@
+{
+    "portfolio_title": "Meu Portfólio",
+    "portfolio_subtitle": "Desenvolvido utilizando o framework React, Tailwind CSS",
+    "portfolio_languages": "Linguagens: JS, JSX(JavaScript + XML), CSS.",
+    "portfolio_tools": "Ferramenta de build: Vite, Node.js",
+    "portfolio_projects": "Projetos profissionais e pessoais",
+    "technologies": "Tecnologias",
+    "view": "Ver projeto",
+    "hextech_desc": "Site institucional da minha empresa, com foco em serviços e contato.",
+    "tecgebras_title": "Tecgebras Grupo Geradores",
+    "tecgebras_desc": "Site institucional moderno com foco na apresentação dos serviços e contato da empresa.",
+    "cards_title": "Jogo de Cartas Online (Estilo Patuscada +18)",
+    "cards_desc": "Jogo multiplayer online com sistema de regras personalizadas. Necessário no mínimo 3 pessoas para jogar (convide amigos). Servidor único (Beta)",
+    "karaoke_title": "Karaokê Dinâmico",
+    "karaoke_desc": "Projeto de karaokê com sincronização de letra e áudio (Open source).",
+    "unimed_title": "Sistema de Automação Interna – Unimed Os Bandeirantes Tech Health",
+    "unimed_desc": "Desenvolvimento de sistema interno voltado para automação de processos administrativos...",
+    "about_title": "Sobre mim",
+    "about_text": "Meu nome é Pedro Rodrigues. Sou desenvolvedor web com mais de 5 anos de experiência. Tenho facilidade com desenvolvimento front-end, mas também trabalho no back-end. Atualmente estou focado em aprender mais sobre React e Node.js, e busco oportunidades para trabalhar com empresas internacionais."
+
+  }
+  
